@@ -1,5 +1,5 @@
 # cert-manager-for-ingress
-## Assuming Resources are already created and a continutation of my work from https://github.com/ericausente/eks-cluster-with-NIC-and-KIC
+## Assuming resources are already created as this is a continutation of the tasks presented in this repo link: https://github.com/ericausente/eks-cluster-with-NIC-and-KIC
 
 
 When using Cert-manager with your Nginx ingress controller, you don't need to create your own certificate manually. Cert-manager will handle the creation and management of your SSL/TLS certificates automatically.
